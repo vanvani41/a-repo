@@ -5,27 +5,32 @@
       "name": "Andriy",
       "sirname": "Moskalenko",
       "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
-      "balance": 1500
+      "balance": 1500,
+      "desc": ""
     },
     {
       "id": 2,
       "name": "Yuriy",
       "sirname": "Berezovchuk",
       "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat1.png",
-      "balance": 5790
+      "balance": 5790,
+      "desc": ""
     },
     {
       "id": 3,
       "name": "Cat",
       "sirname": "Egyptian",
       "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat2.jpg",
-      "balance": 0
+      "balance": 0,
+      "desc": ""
     },
     {
       "id": 4,
       "name": "vanvani41",
+      "sirname": "",
       "photo_url": "https://raw.githubusercontent.com/vanvani41/a-repo/main/img.jpg",
-      "balance": "298₴"
+      "balance": "298₴",
+      "desc": "a guy that doing C# HTML CSS JS things..."
     }
   ],
   "products": [
