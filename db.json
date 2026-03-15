@@ -40,7 +40,8 @@
       "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg",
+      "buyordownloadbutton": "Buy"
     },
     {
       "id": 2,
@@ -48,7 +49,8 @@
       "description": "Brand new and high quality.",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg",
+      "buyordownloadbutton": "Buy"
     },
     {
       "id": 3,
@@ -56,7 +58,8 @@
       "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg",
+      "buyordownloadbutton": "Buy"
     },
     {
       "id": 4,
@@ -64,7 +67,8 @@
       "description": "Can make color party.",
       "price": 92,
       "author_id": 1,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png",
+      "buyordownloadbutton": "Buy"
     },
     {
       "id": 5,
@@ -72,7 +76,8 @@
       "description": "Can resist the voltage. Super cool.",
       "price": 180,
       "author_id": 3,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png",
+      "buyordownloadbutton": "Buy"
     },
     {
       "id": 6,
@@ -80,7 +85,8 @@
       "description": "Epic.",
       "price": 300,
       "author_id": 2,
-      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg",
+      "buyordownloadbutton": "Buy"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
       "description": "First ukrainian mod menu for gorilla tag!!",
       "price": "FREE",
       "author_id": 4,
-      "photo_url": "https://raw.githubusercontent.com/vanvani41/a-repo/main/img1.jpg"
+      "photo_url": "https://raw.githubusercontent.com/vanvani41/a-repo/main/img1.jpg",
+      "buyordownloadbutton": "<a href='https://github.com/vanvani41/UA-Mod-Menu/releases/latest'>Download</a>"
     }
   ]
 }
