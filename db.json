@@ -95,7 +95,7 @@
       "price": "FREE",
       "author_id": 4,
       "photo_url": "https://raw.githubusercontent.com/vanvani41/a-repo/main/img1.jpg",
-      "buyordownloadbutton": "<a href='https://github.com/vanvani41/UA-Mod-Menu/releases/latest'>Download</a>"
+      "buyordownloadbutton": "<a href='https://github.com/vanvani41/UA-Mod-Menu/releases/latest' class='blacktext'>Download</a>"
     }
   ]
 }
